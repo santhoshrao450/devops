@@ -7,3 +7,4 @@ file {"/tmp/firstfile.txt":
      }
 
 }
+# created the firstfile.txt in temporary in the agent
